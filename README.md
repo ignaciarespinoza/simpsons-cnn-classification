@@ -147,3 +147,9 @@ Este proyecto demuestra el uso de Redes Neuronales Convolucionales para resolver
 El proceso no se limitó a entrenar un modelo, sino que incluyó comparación de arquitecturas, selección de hiperparámetros, diagnóstico de sobreajuste, aplicación de técnicas de regularización y evaluación final mediante métricas y visualizaciones.
 
 El resultado final fue una CNN profunda personalizada con buen rendimiento y capacidad de generalización sobre imágenes no vistas.
+
+## Autora
+
+**Ignacia Reyes Espinoza**
+
+Estudiante de Ingeniería en Informática con especialización en Ciencia de Datos.
