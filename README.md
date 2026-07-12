@@ -23,7 +23,7 @@ El conjunto de datos fue trabajado mediante:
 - Normalización de valores de píxeles entre 0 y 1.
 - Separación en entrenamiento, validación y prueba.
 
-> Nota: El dataset no se incluye directamente en este repositorio debido a su tamaño. Para ejecutar el notebook, las carpetas del dataset deben estar disponibles en el entorno de trabajo.
+> Nota: El dataset no se incluye directamente en este repositorio debido a su tamaño. 
 
 ---
 
